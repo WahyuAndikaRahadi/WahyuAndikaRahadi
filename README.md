@@ -83,17 +83,18 @@
 
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding-bottom: 20px; padding-left: 10px; padding-right: 10px;">
-    <!-- Stat pertama: GitHub Profile Stats -->
+    <!-- Stat pertama: GitHub Profile Stats (Kiri) -->
     <div style="width: 300px; display: flex; justify-content: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=WahyuAndikaRahadi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
     </div>
-    <!-- Stat kedua: Top Languages -->
+    <!-- Stat kedua: Top Languages (Kanan atas) -->
     <div style="width: 300px; display: flex; justify-content: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuAndikaRahadi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
     </div>
-    <!-- Stat ketiga: Streak Stats -->
+    <!-- Stat ketiga: Streak Stats (Kanan bawah) -->
     <div style="width: 300px; display: flex; justify-content: center;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuAndikaRahadi&theme=tokyonight&hide_border=false" />
     </div>
+    
   </div>
 </p>
