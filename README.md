@@ -79,8 +79,22 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahyuAndikaRahadi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuAndikaRahadi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuAndikaRahadi&theme=tokyonight&hide_border=false" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <!-- Stat pertama: GitHub Profile Stats -->
+    <div style="width: 300px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=WahyuAndikaRahadi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+    </div>
+    
+    <!-- Stat kedua: Top Languages -->
+    <div style="width: 300px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahyuAndikaRahadi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+    </div>
+    
+    <!-- Stat ketiga: Streak Stats -->
+    <div style="width: 300px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahyuAndikaRahadi&theme=tokyonight&hide_border=false" />
+    </div>
+  </div>
 </p>
