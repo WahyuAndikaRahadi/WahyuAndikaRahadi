@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Wahyu Andika Rahadi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+---
+
+### 🐍 GitHub Snake Animation:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WahyuAndikaRahadi/WahyuAndikaRahadi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="400" />
+  <img src="https://raw.githubusercontent.com/WahyuAndikaRahadi/WahyuAndikaRahadi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="600" />
 </p>
+
+---
 
 - 🔭 I’m currently studying at **SMKN 69 JAKARTA**
 - 🌱 I’m learning **JavaScript, PHP, Node.js, Tailwind CSS**
