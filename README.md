@@ -79,7 +79,6 @@
 ---
 
 ### 📊 GitHub Stats:
-### 📊 GitHub Stats:
 
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding-bottom: 20px; padding-left: 10px; padding-right: 10px;">
